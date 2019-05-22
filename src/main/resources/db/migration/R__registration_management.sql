@@ -1,4 +1,3 @@
-
 --
 -- Function to register a given user on an a given activity
 --
